@@ -1,0 +1,158 @@
+<!--Contenedor del formulario-->
+<main class="contenido">
+  <section class="tarjeta">
+    <header class="titulo-tarjeta">
+      <h2>Generar Venta</h2>
+    </header>
+
+    <div class="cuerpo-tarjeta">
+      <div class="contenedor-inputs">
+        <h3 class="titulo-seccion">Detalle del cliente</h3>
+        <div class="seccion-cliente">
+          <div class="izquierda">
+            <input type="text" name="identificacion" id="identificacion"
+                   class="tipo-fuente"
+                   autocomplete="off"
+                   placeholder="Dni del cliente"
+                   [(ngModel)]="venta.dni"
+                   [disabled]="formBloqueado"
+                   (keyup.enter)="moverFocus('cliente')">
+          </div>
+
+          <div class="derecha">
+            <input type="text" name="cliente" id="cliente"
+                   class="tipo-fuente"
+                   autocomplete="off"
+                   placeholder="Nombre del cliente"
+                   [(ngModel)]="venta.cliente"
+                   [disabled]="formBloqueado"
+                   (keyup.enter)="moverFocus('codigo')">
+          </div>
+        </div>
+
+        <h3 class="titulo-seccion" style="margin-top: 15px;">Detalle del producto</h3>
+        <div class="seccion-producto">
+          <div class="izquierda">
+            <input type="text" name="codigo" id="codigo" class="tipo-fuente" autocomplete="off" placeholder="Buscar por código"
+                   [(ngModel)]="codigoProducto"
+                   (keyup.enter)="buscarProductoCodigo()"
+                   [disabled]="formBloqueado">
+          </div>
+
+          <div class="derecha autocompletar-contenido">
+            <input type="text" name="producto" class="tipo-fuente" autocomplete="off"
+                  placeholder="Digite el nombre del producto"
+                  [(ngModel)]="productoFiltro"
+                  (input)="fitrarProducto()"
+                  (mousedown)="mostrarListaProductos()"
+                  (blur)="cerrarListaProductos()"
+                  (keyup.enter)="agregarProductoTabla()"
+                  [disabled]="formBloqueado">
+
+            <ul class="autocompletar-lista" *ngIf="listaProductos">
+              <li *ngFor="let producto of productosFiltrados" (mousedown)="seleccionarProducto(producto);
+                  $event.preventDefault();">{{ producto.descripcion }}</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!--Tabla-->
+      <div style="overflow-x: auto; max-width: 100%; margin: auto;">
+        <table style="width: 100%; border-collapse: collapse;">
+        <thead>
+          <tr>
+            <th class="ocultar-columna">Id</th>
+            <th class="ocultar-columna">IdVenta</th>
+            <th class="ocultar-columna">IdProducto</th>
+            <th style="text-align: left;">Producto</th>
+            <th style="text-align: center;">Cantidad</th>
+            <th style="text-align: right;">Precio</th>
+            <th style="text-align: right;">Descuento</th>
+            <th style="text-align: right;">Total</th>
+            <th style="text-align: center;">Acciones</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr *ngFor="let detalle of detalleVentas">
+            <td data-label="Id" class="ocultar-columna">{{ detalle.idDetalleVenta }}</td>
+            <td data-label="IdVenta" class="ocultar-columna">{{ detalle.idVenta }}</td>
+            <td data-label="IdProducto" class="ocultar-columna">{{ detalle.idProducto }}</td>
+            <td data-label="Producto">{{ detalle.nombreProducto }}</td>
+
+            <td data-label="Cantidad" style="text-align: center;" (document:click)="cerrarInput(detalle, $event)">
+              <span *ngIf="!detalle.editarCantidad"
+                    (dblclick)="detalle.editarCantidad = true"
+                    style="cursor: pointer;"
+                    title="Doble clic para editar">{{ detalle.cantidad }}</span>
+
+              <input *ngIf="detalle.editarCantidad"
+                      type="number"
+                      [(ngModel)]="detalle.cantidad"
+                      (keyup.enter)="validarCantidad(detalle)"
+                      [disabled]="formBloqueado">
+            </td>
+
+            <td data-label="Precio" style="text-align: right;">{{ detalle.precio | number: '1.2-2' }}</td>
+
+            <td data-label="Descuento" style="text-align: right;" (document:click)="cerrarInput(detalle, $event)">
+              <span *ngIf="!detalle.editarDescuento"
+                     (dblclick)="detalle.editarDescuento = true"
+                     style="cursor: pointer;"
+                     title="Doble clic para editar">{{ detalle.descuento | number: '1.2-2' }}</span>
+
+              <input *ngIf="detalle.editarDescuento"
+                      type="number"
+                      [(ngModel)]="detalle.descuento"
+                      (keyup.enter)="validarDescuento(detalle)"
+                      [disabled]="formBloqueado">
+            </td>
+
+            <td data-label="Total" style="text-align: right;">{{ detalle.total | number: '1.2-2' }}</td>
+            <td data-label="Acciones" style="display: flex; justify-content: center;" class="acciones">
+              <button class="eliminar"
+                      (click)="eliminarProducto(detalle)"
+                      [disabled]="formBloqueado">
+                <mat-icon>delete</mat-icon>
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </div>
+
+      <!--Totales-->
+      <div class="contenedor-totales">
+        <div class="totales">
+          <div class="sub-total">
+            <span>Subtotal:</span>
+            <span class="valor">{{ subtotal | currency }}</span>
+          </div>
+          <div class="descuento">
+            <span>Descuento:</span>
+            <span class="valor">{{ descuentoTotal | currency }}</span>
+          </div>
+          <div class="total-general">
+            <span>Total General:</span>
+            <span class="valor">{{ totalGeneral | currency }}</span>
+          </div>
+        </div>
+      </div>
+
+      <!--Botones de acción-->
+      <div class="botones-acciones">
+        <button class="boton btn-nuevo"
+                (click)="nuevaVenta()">
+          <mat-icon>add_circle_outline</mat-icon>Nuevo
+        </button>
+
+        <button class="boton btn-guardar"
+                (click)="guardarVenta()"
+                [disabled]="!botonGuardarActivo">
+          <mat-icon>check</mat-icon>Guardar
+        </button>
+      </div>
+    </div>
+  </section>
+</main>

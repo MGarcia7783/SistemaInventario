@@ -1,0 +1,157 @@
+.contenido {
+  color: var(--color-texto);
+}
+
+.tarjeta {
+  border: 1px solid #e0e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  margin-bottom: 20px;
+  overflow-wrap: auto;
+  margin-top: 10px;
+}
+
+.titulo-tarjeta {
+  background-color: var(--color-titulo-tarjeta);
+  color: var(--color-blanco);
+  padding: 1px 20px;
+  font-size: 16px;
+}
+
+.titulo-tarjeta h2 {
+  font-weight: 490;
+}
+
+.cuerpo-tarjeta {
+  padding: 20px;
+  background-color: var(--color-blanco);
+}
+
+.barra-herramientas {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.boton {
+  padding: 10px 15px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  border: none;
+}
+
+.boton mat-icon {
+  vertical-align: middle;
+  margin-right: 5px;
+  font-size: 22px;
+}
+
+.boton.btn-agregar {
+  background-color: var(--color-blanco);
+  color: var(--color-secundario);
+}
+
+.boton.btn-agregar:hover {
+  background-color: var(--color-secundario);
+  color: var(--color-blanco);
+}
+
+.cuadro-buscar {
+  flex: 1;
+  min-width: 200px;
+  display: flex;
+  align-items: center;
+  flex-wrap: 1;
+  margin-left: 15px;
+}
+
+.cuadro-buscar input {
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 15px;
+  width: 100%;
+  color: var(--color-texto);
+  border: 1px solid #ccc;
+}
+
+.cuadro-buscar input:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 4px rgb(0, 123, 255, 0.5);
+}
+
+.tabla-contenedor {
+  width: 100%;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  white-space: nowrap;
+}
+
+thead th {
+  background-color: #F3F4F6;
+  color: va(--color-texto);
+  text-align: left;
+  padding: 5px 15px;
+  font-size: 16px;
+  font-weight: 590;
+}
+
+.ocultar-columna {
+  display: none;
+}
+
+tbody td {
+  padding: 5px 15px;
+  border-top: 1px solid #ddd;
+  font-size: 14px;
+}
+
+tbody tr {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.acciones {
+  display: flex;
+  gap: 5px;
+}
+
+.acciones button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.acciones button:hover {
+  transform: scale(1.2);
+}
+
+.acciones .editar {
+  color: #007bff;
+}
+
+.acciones .editar:hover {
+  background: #e1f0ff;
+}
+
+.acciones .eliminar {
+  color: #dc3545;
+}
+
+.acciones .eliminar:hover {
+  background: #f8d7da;
+}
+
+

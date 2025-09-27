@@ -1,0 +1,76 @@
+<main class="contenido-dashboard">
+  <section class="dashboard">
+    <header translate="no">
+      <h2>Dashboard</h2>
+    </header>
+
+    <!--Tarjetas de Resumen-->
+    <div class="contenido-tarjeta">
+      <div class="tarjetas tarjeta-ventas">
+        <h4>Ventas Realizadas</h4>
+        <p>{{ formatearNumero (totalVentas) }}</p>
+      </div>
+      <div class="tarjetas tarjeta-productos">
+        <h4>Productos Vendidos</h4>
+        <p>{{ formatearNumero (totalProductos) }}</p>
+      </div>
+      <div class="tarjetas tarjeta-ingresos">
+        <h4>Total de Ingresos</h4>
+        <p>{{ formatearNumero (totalIngresos) }}</p>
+      </div>
+    </div>
+
+    <!--Gráfico de ventas-->
+    <div class="contenedor-graficos">
+      <div class="contenido-grafico grafico-ventas">
+        <div style="width: 100%; max-width: 700px; margin: auto;">
+          <h3>Ventas de los últimos 7 días</h3>
+          <canvas baseChart
+            [data]="ventasChartData"
+            [options]="ventasChartOptions"
+            [type]="'line'">
+          </canvas>
+        </div>
+      </div>
+
+      <div class="contenido-grafico grafico-productos">
+        <div style="width: 100%; max-width: 700px; margin: auto;">
+          <h3>Productos más vendidos</h3>
+          <canvas baseChart
+            [data]="productosChartData"
+            [options]="productosChartOptions"
+            [type]="'bar'">
+          </canvas>
+        </div>
+      </div>
+    </div>
+
+    <!--Tabla de productos por agotar-->
+    <div class="contenedor-tabla">
+      <h3>Productos con alerta de stock</h3>
+      <table class="tabla-productos">
+        <thead>
+          <tr>
+            <th class="ocultar-columna">ID</th>
+            <th>Código</th>
+            <th>Producto</th>
+            <th>Categoría</th>
+            <th>Stock</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let producto of productosPorAgotar">
+            <td data-label="ID" class="ocultar-columna">{{ producto.idProducto }}</td>
+            <td data-label="Código">{{ producto.codigo }}</td>
+            <td data-label="Producto">{{ producto.producto }}</td>
+            <td data-label="Categoría">{{ producto.categoria }}</td>
+            <td data-label="Stock" translate="no">{{ producto.stock }}</td>
+          </tr>
+          <tr *ngIf="productosPorAgotar.length === 0">
+            <td colspan="6">No hay registros disponibles que mostrar</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+</main>

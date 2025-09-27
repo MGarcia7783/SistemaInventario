@@ -1,0 +1,81 @@
+<div class="app-container">
+  <!--Barra superior-->
+  <header class="barra-superior">
+    <!--Icono-->
+    <nav class="icono-barra-superior">
+      <button>
+        <mat-icon>logout</mat-icon>
+      </button>
+    </nav>
+  </header>
+
+  <!--Barra lateral-->
+  <aside class="barra-lateral">
+    <div class="logo">
+      <mat-icon>store</mat-icon>
+      <h1 class="texto-logo">SISTEMA POS</h1>
+    </div>
+
+    <!--Separador-->
+    <hr class="linea-division">
+
+    <!--Lista del menú principal-->
+    <nav>
+      <ul class="menu">
+        <!--Item Dashboar-->
+        <li class="elemento-menu" translate="no">
+          <a [routerLink]="['/Pages/Dashboard']">
+            <mat-icon>dashboard</mat-icon>Dashboard
+          </a>
+        </li>
+
+        <!--Item Administración son submenú-->
+        <li class="elemento-menu">
+          <a href="#" (click)="enlace_menu('administracion', $event)" [attr.aria-expanded]="esSubMenuAbierto('administracion')">
+            <mat-icon>settings</mat-icon>Administración
+            <mat-icon class="expand-icon" [class]="{'rotate-icon': esSubMenuAbierto('administracion')}">chevron_right</mat-icon>
+          </a>
+          <ul class="sub-menu" [ngClass]="{'show' : esSubMenuAbierto('administracion')}">
+            <li><a [routerLink]="['/Pages/Roles']" (click)="cerrarSubMenu()">Rol</a></li>
+            <li><a [routerLink]="['/Pages/Usuarios']" (click)="cerrarSubMenu()">Usuario</a></li>
+          </ul>
+        </li>
+
+        <!--Item Inventario son submenú-->
+        <li class="elemento-menu">
+          <a href="#" (click)="enlace_menu('inventario', $event)" [attr.aria-expanded]="esSubMenuAbierto('inventario')">
+            <mat-icon>assessment</mat-icon>Inventario
+            <mat-icon class="expand-icon" [class]="{'rotate-icon': esSubMenuAbierto('inventario')}">chevron_right</mat-icon>
+          </a>
+          <ul class="sub-menu" [ngClass]="{'show' : esSubMenuAbierto('inventario')}">
+            <li><a [routerLink]="['/Pages/Categorias']" (click)="cerrarSubMenu()">Categorías</a></li>
+            <li><a [routerLink]="['/Pages/Productos']" (click)="cerrarSubMenu()">Productos</a></li>
+          </ul>
+        </li>
+
+        <!--Item Ventas son submenú-->
+        <li class="elemento-menu">
+          <a href="#" (click)="enlace_menu('venta', $event)" [attr.aria-expanded]="esSubMenuAbierto('venta')">
+            <mat-icon>sell</mat-icon>Ventas
+            <mat-icon class="expand-icon" [class]="{'rotate-icon': esSubMenuAbierto('venta')}">chevron_right</mat-icon>
+          </a>
+          <ul class="sub-menu" [ngClass]="{'show' : esSubMenuAbierto('venta')}">
+            <li><a [routerLink]="['/Pages/Ventas']" (click)="cerrarSubMenu()">Nueva venta</a></li>
+            <li><a [routerLink]="['']" (click)="cerrarSubMenu()">Historial de ventas</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </aside>
+
+  <div class="contenido-principal">
+    <router-outlet></router-outlet>
+  </div>
+
+  <!--Footer-->
+  <footer class="footer">
+    <div class="footer-bottom">
+      <p>&copy; 2025 Sistema POS. Todos los derechos reservados.</p>
+    </div>
+  </footer>
+</div>

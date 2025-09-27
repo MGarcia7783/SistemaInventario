@@ -1,0 +1,49 @@
+<div class="modal">
+  <div class="modal-contenido">
+    <span class="cerrar" (click)="cerrarModal()">&times;</span>
+    <h2>Detalle de Productos</h2>
+
+    <form #productoForm="ngForm" (submit)="guardarRegistro(productoForm)">
+      <div class="fila-flexible">
+        <div class="izquierda">
+          <label for="codigo">Código</label>
+          <input type="text" name="codigo" class="tipo-fuente" required [(ngModel)]="producto.codigoBarra">
+
+          <label for="producto">Producto</label>
+          <input type="text" name="producto" class="tipo-fuente" required [(ngModel)]="producto.descripcion">
+
+          <label for="categoria">Categoría</label>
+          <div class="contenido-categoria">
+            <select name="categoria" id="categoria" required [(ngModel)]="producto.idCatagoria">
+              <option value="" disabled selected>Seleccione una categoría</option>
+              <option *ngFor="let categoria of categorias" [ngValue]="categoria.idCategoria">{{ categoria.descripcion }}</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="derecha">
+          <label for="precio">Precio</label>
+          <input type="number" name="precio" class="tipo-fuente" required [(ngModel)]="producto.precioVenta">
+
+          <label for="stock">Existencia</label>
+          <input type="number" name="stock" class="tipo-fuente" required [(ngModel)]="producto.stock">
+
+          <label for="stockMinimo">Existencia mínima</label>
+          <input type="number" name="stockMinimo" class="tipo-fuente" required [(ngModel)]="producto.stockMinimo">
+        </div>
+      </div>
+
+
+      <div class="modal-acciones">
+        <button type="submit" class="boton guardar">
+          <mat-icon>check</mat-icon>Guardar
+        </button>
+        <button type="button" class="boton cancelar" (click)="cerrarModal()">
+          <mat-icon>close</mat-icon>Cancelar
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
+

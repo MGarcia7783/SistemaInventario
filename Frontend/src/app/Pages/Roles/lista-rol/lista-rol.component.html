@@ -1,0 +1,50 @@
+<!--Contenedor del formulario-->
+<main class="contenido">
+  <section class="tarjeta">
+    <header class="titulo-tarjeta">
+      <h2>Listado de Roles</h2>
+    </header>
+
+    <div class="cuerpo-tarjeta">
+      <div class="barra-herramientas">
+        <button class="boton btn-agregar" (click)="abrirModal()">
+          <mat-icon>add_circle</mat-icon>Nuevo Rol
+        </button>
+        <!--Caja de búsqueda-->
+        <div class="cuadro-buscar">
+          <input type="text" class="tipo-fuente" placeholder="Buscar Roles" [(ngModel)]="valorBusqueda" (input)="buscarRoles()">
+        </div>
+      </div>
+
+      <!--Crear tabla-->
+      <table>
+        <thead>
+          <tr>
+            <th class="ocultar-columna">Id</th>
+            <th>Rol</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr *ngFor="let rol of registros()">
+            <td data-label="Id" class="ocultar-columna">{{ rol.idRol }}</td>
+            <td data-label="Descripcion">{{ rol.descripcion }}</td>
+            <td data-label="Estado">{{ rol.estado }}</td>
+            <td data-label="Acciones" class="acciones">
+              <button class="editar" (click)="abrirModal(rol)">
+                <mat-icon>edit</mat-icon>
+              </button>
+              <button class="eliminar" (click)="eliminarRol(rol.idRol)">
+                <mat-icon>delete</mat-icon>
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <app-form-rol *ngIf="modalAbierto" (cerrar)="cerrarModal()" (guardar)="guardarRol($event)" [rol]="editarRegistro"></app-form-rol>
+</main>

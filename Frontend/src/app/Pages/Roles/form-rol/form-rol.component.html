@@ -1,0 +1,29 @@
+<div class="modal">
+  <div class="modal-contenido">
+    <span class="cerrar" (click)="cerrarModal()">&times;</span>
+    <h2>Detalle de Rol</h2>
+
+    <form #rolForm="ngForm" (submit)="guardarRegistro(rolForm)">
+      <label for="rol">Rol</label>
+      <input type="text" name="rol" class="tipo-fuente" required [(ngModel)]="rol.descripcion">
+
+      <label for="estado">Estado</label>
+      <div class="contenido-estado">
+        <select name="estado" id="estado" [(ngModel)]="rol.estado">
+          <option value="" disabled selected>Seleccione un estado</option>
+          <option value="Activo">Activo</option>
+          <option value="Inactivo">Inactivo</option>
+        </select>
+      </div>
+
+      <div class="modal-acciones">
+        <button type="submit" class="boton guardar">
+          <mat-icon>check</mat-icon>Guardar
+        </button>
+        <button type="button" class="boton cancelar" (click)="cerrarModal()">
+          <mat-icon>close</mat-icon>Cancelar
+        </button>
+      </div>
+    </form>
+  </div>
+</div>

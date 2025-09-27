@@ -1,0 +1,11 @@
+.modal-contenido {
+  background-color: var(--color-blanco);
+  margin: 5% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 90%;
+  max-width: 500px;
+  min-width: 300px;
+  border-radius: 8px;
+  animation: fadeIn 0.3s ease-in-out;
+}

@@ -1,0 +1,51 @@
+<!--Contenedor del formulario-->
+<main class="contenido">
+  <section class="tarjeta">
+    <header class="titulo-tarjeta">
+      <h2>Listado de Categorías</h2>
+    </header>
+
+    <div class="cuerpo-tarjeta">
+      <div class="barra-herramientas">
+        <button class="boton btn-agregar" (click)="abrirModal()">
+          <mat-icon>add_circle</mat-icon>Nueva Categoría
+        </button>
+        <!--Caja de búsqueda-->
+        <div class="cuadro-buscar">
+          <input type="text" class="tipo-fuente" placeholder="Buscar Categorías" [(ngModel)]="valorBusqueda" (input)="buscarRegistros()">
+        </div>
+      </div>
+
+      <!--Crear tabla-->
+      <table>
+        <thead>
+          <tr>
+            <th class="ocultar-columna">Id</th>
+            <th>Categoría</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr *ngFor="let categoria of registros()">
+            <td data-label="Id" class="ocultar-columna">{{ categoria.idCategoria }}</td>
+            <td data-label="Descripcion">{{ categoria.descripcion }}</td>
+            <td data-label="Estado">{{ categoria.estado }}</td>
+            <td data-label="Acciones" class="acciones">
+              <button class="editar" (click)="abrirModal(categoria)">
+                <mat-icon>edit</mat-icon>
+              </button>
+              <button class="eliminar" (click)="eliminarRegistro(categoria.idCategoria)">
+                <mat-icon>delete</mat-icon>
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <app-form-categoria *ngIf="modalAbierto" (cerrar)="cerrarModal()" (guardar)="guardarRegistro($event)" [categoria]="editarRegistro"></app-form-categoria>
+</main>
+

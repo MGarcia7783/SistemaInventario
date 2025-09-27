@@ -1,0 +1,60 @@
+<!--Contenedor del formulario-->
+<main class="contenido">
+  <section class="tarjeta">
+    <header class="titulo-tarjeta">
+      <h2>Listado de Productos</h2>
+    </header>
+
+    <div class="cuerpo-tarjeta">
+      <div class="barra-herramientas">
+        <button class="boton btn-agregar" (click)="abrirModal()">
+          <mat-icon>add_circle</mat-icon>Nuevo Producto
+        </button>
+        <!--Caja de búsqueda-->
+        <div class="cuadro-buscar">
+          <input type="text" class="tipo-fuente" placeholder="Buscar Producto" [(ngModel)]="valorBusqueda" (input)="buscarRegistros()">
+        </div>
+      </div>
+
+      <!--Crear tabla-->
+      <table>
+        <thead>
+          <tr>
+            <th class="ocultar-columna">Id</th>
+            <th>Código</th>
+            <th>Producto</th>
+            <th>Categoría</th>
+            <th>Precio</th>
+            <th style="text-align: center;">Existencia</th>
+            <th class="ocultar-columna">Stock Mínimo</th>
+            <th>Acciones</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr *ngFor="let producto of registros()">
+            <td data-label="Id" class="ocultar-columna">{{ producto.idProducto }}</td>
+            <td data-label="Código">{{ producto.codigoBarra }}</td>
+            <td data-label="Producto">{{ producto.descripcion }}</td>
+            <td data-label="Categoría">{{ producto.categoriaDescripcion }}</td>
+            <td data-label="Precio">{{ producto.precioVenta | number: '1.2-2' }}</td>
+            <td data-label="Existencia" style="text-align: center;">{{ producto.stock }}</td>
+            <td data-label="StockMínimo" class="ocultar-columna">{{ producto.stockMinimo }}</td>
+            <td data-label="Acciones" class="acciones">
+              <button class="editar" (click)="abrirModal(producto)">
+                <mat-icon>edit</mat-icon>
+              </button>
+              <button class="eliminar" (click)="eliminarRegistro(producto.idProducto)">
+                <mat-icon>delete</mat-icon>
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <app-form-producto *ngIf="modalAbierto" (cerrar)="cerrarModal()" (guardar)="guardarProducto($event)" [producto]="editarRegistro"></app-form-producto>
+</main>
+
+

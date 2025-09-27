@@ -1,0 +1,199 @@
+@import './contenido.css';
+@import './modal.css';
+
+:root {
+  --color-fondo: #F5F5F5;
+  --color-texto: #555;
+  --color-texto-submenu: #263238;
+  --color-blanco: #ffffff;
+  --color-gris: #eaecee;
+  --color-titulo-tarjeta: #0066CC;
+  --color-barra-lateral: #2B2B2B;
+  --color-verde-activo: #28a745;
+  --color-rojo-inactivo: #dc3545;
+  --color-primario: #007bff;
+  --color-secundario: #28a745;
+  --color-terciario: #b9bec2;
+  --font-principal: Roboto, "Helvetica Neue", sans-serif;
+  --color-sombra: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tipo-fuente {
+  font-family: var(--font-principal);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-principal);
+  background-color: var(--color-fondo);
+  height: 100%;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.barra-superior {
+  position: fixed;
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+  box-shadow: var(--color-sombra);
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1100;
+  background-color: var(--color-blanco);
+}
+
+.icono-barra-superior {
+  margin-left: auto;
+  display: flex;
+  padding-right: 25px;
+}
+
+.icono-barra-superior button {
+  padding: 3px;
+  display: flex;
+  align-items: center;
+}
+
+.icono-barra-superior mat-icon {
+  cursor: pointer;
+}
+
+.barra-lateral {
+  background-color: var(--color-barra-lateral);
+  width: 250px;
+  color: var(--color-blanco);
+  position: fixed;
+  top: 50px;
+  left: 0;
+  height: calc(100% - 50px);
+  display: block;
+  z-index: 1000;
+  overflow-y: auto;
+}
+
+.barra-lateral mat-icon {
+  font-size: 26px;
+}
+
+.logo {
+  padding: 5px 18px 0;
+  gap: 10px;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  height: 60px;
+  text-align: center;
+}
+
+.texto-logo {
+  font-size: 21px;
+  font-weight: 400;
+}
+
+.linea-division {
+  border: 0;
+  height: 1px;
+  background-color: rgba(255, 255, 255, 0.2);
+  margin: 10px 0;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu mat-icon {
+  margin-left: 5px;
+}
+
+.menu li a {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  color: var(--color-blanco);
+  text-decoration: none;
+  font-size: 16px;
+  gap: 20px;
+}
+
+.menu li a:hover {
+  color: #1e90ff;
+}
+
+.menu li a .expand-icon {
+  margin-left: auto;
+}
+
+.expand-icon {
+  transition: transform 0.3s ease-in-out;
+}
+
+.rotate-icon {
+  transform: rotate(90deg);
+}
+
+.sub-menu {
+  list-style: none;
+  padding: 5px 0 5px 0;
+  margin: 0 20px;
+  background-color:  var(--color-blanco);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  width: 210px;
+  display: none;
+}
+
+.sub-menu.show {
+  display: block;
+}
+
+.sub-menu li a:hover {
+  background-color: #E2F2FD;
+}
+
+.sub-menu li a {
+  color: var(--color-texto-submenu);
+  padding: 10px 20px;
+  display: block;
+  border-radius: 10px;
+  margin: 5px 10px;
+  font-size: 14px;
+}
+
+.contenido-principal {
+  margin-top: 40px;
+  margin-left: 250px;
+  padding: 20px;
+  box-sizing: border-box;
+  flex: 1;
+}
+
+.footer {
+  background-color: var(--color-blanco);
+  color: var(--color-texto);
+  font-weight: 500;
+  padding: 20px 0;
+  margin-top: auto;
+  margin-left: 250px;
+}
+
+.footer-bottom {
+  text-align: center;
+  padding-top: 7px;
+}
+
+.footer-bottom p {
+  font-size: 12px;
+  margin: 0;
+}

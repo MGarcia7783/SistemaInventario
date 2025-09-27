@@ -1,0 +1,61 @@
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.deps.json
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.pdb
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.csproj.AssemblyReference.cache
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.AssemblyInfoInputs.cache
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.AssemblyInfo.cs
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.csproj.CoreCompileInputs.cache
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.sourcelink.json
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Model\obj\Debug\net8.0\refint\Pos.Model.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.pdb
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Model\obj\Debug\net8.0\ref\Pos.Model.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.deps.json
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.csproj.AssemblyReference.cache
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.AssemblyInfoInputs.cache
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.AssemblyInfo.cs
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.csproj.CoreCompileInputs.cache
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\refint\Pos.Model.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\ref\Pos.Model.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.deps.json
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.csproj.AssemblyReference.cache
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.AssemblyInfoInputs.cache
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.AssemblyInfo.cs
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.csproj.CoreCompileInputs.cache
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\refint\Pos.Model.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Model\obj\Debug\net8.0\ref\Pos.Model.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.deps.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.csproj.AssemblyReference.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.AssemblyInfoInputs.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.AssemblyInfo.cs
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.csproj.CoreCompileInputs.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Model\obj\Debug\net8.0\refint\Pos.Model.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Model\obj\Debug\net8.0\ref\Pos.Model.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.deps.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Model\bin\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.csproj.AssemblyReference.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.AssemblyInfoInputs.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.AssemblyInfo.cs
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.csproj.CoreCompileInputs.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Model\obj\Debug\net8.0\refint\Pos.Model.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Model\obj\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Model\obj\Debug\net8.0\ref\Pos.Model.dll

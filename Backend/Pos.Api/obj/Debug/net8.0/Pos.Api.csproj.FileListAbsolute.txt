@@ -1,0 +1,720 @@
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\appsettings.json
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.staticwebassets.endpoints.json
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.exe
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.deps.json
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.runtimeconfig.json
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.pdb
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Pos.Dto.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Pos.Model.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Pos.Repository.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Pos.Service.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Pos.Dto.pdb
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Pos.Model.pdb
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Pos.Service.pdb
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\bin\Debug\net8.0\Pos.Repository.pdb
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.AssemblyReference.cache
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.AssemblyInfoInputs.cache
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.AssemblyInfo.cs
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.CoreCompileInputs.cache
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.sourcelink.json
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\scopedcss\bundle\Pos.Api.styles.css
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.Pos.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.Pos.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Pos.Api.props
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Pos.Api.props
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Pos.Api.props
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.Up2Date
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\refint\Pos.Api.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.pdb
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.genruntimeconfig.cache
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Api\obj\Debug\net8.0\ref\Pos.Api.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\appsettings.json
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.staticwebassets.endpoints.json
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.exe
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.deps.json
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.runtimeconfig.json
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.pdb
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Dto.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Repository.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Service.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Dto.pdb
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Service.pdb
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Repository.pdb
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.AssemblyReference.cache
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.AssemblyInfoInputs.cache
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.AssemblyInfo.cs
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.CoreCompileInputs.cache
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\scopedcss\bundle\Pos.Api.styles.css
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.Pos.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.Pos.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Pos.Api.props
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Pos.Api.props
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Pos.Api.props
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.Up2Date
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\refint\Pos.Api.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.pdb
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.genruntimeconfig.cache
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\ref\Pos.Api.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\appsettings.json
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.staticwebassets.endpoints.json
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.exe
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.deps.json
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.runtimeconfig.json
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.pdb
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Dto.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Repository.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Service.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Dto.pdb
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Service.pdb
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Repository.pdb
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.AssemblyReference.cache
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.AssemblyInfoInputs.cache
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.AssemblyInfo.cs
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.CoreCompileInputs.cache
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\scopedcss\bundle\Pos.Api.styles.css
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.Pos.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.Pos.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Pos.Api.props
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Pos.Api.props
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Pos.Api.props
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.Up2Date
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\refint\Pos.Api.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.pdb
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.genruntimeconfig.cache
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Api\obj\Debug\net8.0\ref\Pos.Api.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\appsettings.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.staticwebassets.endpoints.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.exe
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.deps.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.runtimeconfig.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Dto.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Repository.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Service.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Dto.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Service.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\bin\Debug\net8.0\Pos.Repository.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.AssemblyReference.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.AssemblyInfoInputs.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.AssemblyInfo.cs
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.CoreCompileInputs.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\scopedcss\bundle\Pos.Api.styles.css
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.Pos.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.Pos.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Pos.Api.props
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Pos.Api.props
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Pos.Api.props
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.Up2Date
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\refint\Pos.Api.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.genruntimeconfig.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Api\obj\Debug\net8.0\ref\Pos.Api.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\appsettings.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.staticwebassets.endpoints.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.exe
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.deps.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.runtimeconfig.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Pos.Api.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Pos.Dto.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Pos.Repository.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Pos.Service.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Pos.Dto.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Pos.Service.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\bin\Debug\net8.0\Pos.Repository.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.AssemblyReference.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.AssemblyInfoInputs.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.AssemblyInfo.cs
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.CoreCompileInputs.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\scopedcss\bundle\Pos.Api.styles.css
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.csproj.Up2Date
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\refint\Pos.Api.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\Pos.Api.genruntimeconfig.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\ref\Pos.Api.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Api\obj\Debug\net8.0\staticwebassets.build.json.cache

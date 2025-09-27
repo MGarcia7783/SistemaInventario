@@ -1,0 +1,76 @@
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.deps.json
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.pdb
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Model.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Model.pdb
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.csproj.AssemblyReference.cache
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.AssemblyInfoInputs.cache
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.AssemblyInfo.cs
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.csproj.CoreCompileInputs.cache
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.sourcelink.json
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repo.3EAE6E24.Up2Date
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\obj\Debug\net8.0\refint\Pos.Repository.dll
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.pdb
+C:\Desarrollo_Aplicaciones_IV\Regular\Sistema-de-Ventas-Angular-19\Backend\Pos.Repository\obj\Debug\net8.0\ref\Pos.Repository.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.deps.json
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.pdb
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.csproj.AssemblyReference.cache
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.AssemblyInfoInputs.cache
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.AssemblyInfo.cs
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.csproj.CoreCompileInputs.cache
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repo.3EAE6E24.Up2Date
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\refint\Pos.Repository.dll
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.pdb
+C:\Programacion\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\ref\Pos.Repository.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.deps.json
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.pdb
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.csproj.AssemblyReference.cache
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.AssemblyInfoInputs.cache
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.AssemblyInfo.cs
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.csproj.CoreCompileInputs.cache
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repo.3EAE6E24.Up2Date
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\refint\Pos.Repository.dll
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.pdb
+C:\Programacion\Csharp\API-REST\Desarrollo_Aplicaciones_IV\Regular\Backend\Pos.Repository\obj\Debug\net8.0\ref\Pos.Repository.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.deps.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.csproj.AssemblyReference.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.AssemblyInfoInputs.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.AssemblyInfo.cs
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.csproj.CoreCompileInputs.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repo.3EAE6E24.Up2Date
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\obj\Debug\net8.0\refint\Pos.Repository.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Regular\Backend\Pos.Repository\obj\Debug\net8.0\ref\Pos.Repository.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.deps.json
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Repository.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Model.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\bin\Debug\net8.0\Pos.Model.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.csproj.AssemblyReference.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.AssemblyInfoInputs.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.AssemblyInfo.cs
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.csproj.CoreCompileInputs.cache
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repo.3EAE6E24.Up2Date
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\obj\Debug\net8.0\refint\Pos.Repository.dll
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\obj\Debug\net8.0\Pos.Repository.pdb
+C:\Programacion\Desarrollo de Aplicaciones IV\2025\Backend\Pos.Repository\obj\Debug\net8.0\ref\Pos.Repository.dll
